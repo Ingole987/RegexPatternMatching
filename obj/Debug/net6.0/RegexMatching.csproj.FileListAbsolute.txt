@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\RegexMatching.exe
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\RegexMatching.deps.json
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\RegexMatching.runtimeconfig.json
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\RegexMatching.dll
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\ref\RegexMatching.dll
+C:\Users\prati\source\repos\RegexMatching\bin\Debug\net6.0\RegexMatching.pdb
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.AssemblyInfo.cs
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.dll
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\ref\RegexMatching.dll
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.pdb
+C:\Users\prati\source\repos\RegexMatching\obj\Debug\net6.0\RegexMatching.genruntimeconfig.cache
